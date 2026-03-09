@@ -20,7 +20,7 @@
 <h2> Check Screenshots below: </h2>
 
  - [3] Screenshot 1- Firewall Requirements (Global Port Requirments & Pinpad Support)
- - Transaction Link Production (API)
+ - Transaction Link Production - Application Programming Interface (API)
 
 <img width="698" height="825" alt="Screenshot_3_Firewall_Requirement" src="https://github.com/user-attachments/assets/c6665b6a-ceec-46c3-9c6a-6e7d650e847b" />
 
