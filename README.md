@@ -15,7 +15,7 @@
 <h2>Operating System Used </h2>
 
          - Vmare Workstation (Production Environment)
-         - Windows 10 Pro
+         - Windows 7 and 10 Pro
 
 <h2> Check Screenshots below: </h2>
 
