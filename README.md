@@ -1,7 +1,7 @@
 # TLS_Covertor_Upgrade
 
 
-<h2>Description </h2>
+- <h2>Description </h2>
 
     - This project entails the process of upgrading from Secure Socet Layer (SSL) to Transport Layer Security (TLS). Both are cryptograhic protocols designed to provide secure commnucation over a computer network.
     - Secure Socet Layer has been one of the most widely-used encryption protocols. It remains in use today despiste the existence of a number of known security vulnerabilities. [1] SSL is the legacy term for encryption and it focuses
@@ -12,12 +12,12 @@
     
      
          
-<h2>Operating System Used </h2>
+- <h2>Operating System Used </h2>
 
          - Vmare Workstation (Production Environment)
          - Windows 7 and 10 Pro
 
-<h2> Check Screenshots below: </h2>
+- <h2> Check Screenshots below: </h2>
 
  - [3] Screenshot 1- Firewall Requirements (Global Port Requirments & Pinpad Support)
  - Transaction Link Production - Application Programming Interface (API)
