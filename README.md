@@ -5,7 +5,7 @@
 
     - This project entails the process of upgrading from Secure Socet Layer (SSL) to Transport Layer Security (TLS). Both are cryptograhic protocols designed to provide secure commnucation over a computer network.
     - Secure Socet Layer has been one of the most widely-used encryption protocols. It remains in use today despiste the existence of a number of known security vulnerabilities. [1] SSL is the legacy term for encryption and it focuses
-    - on modern TLS standards and proper certificate managament to prevent data theft and anauatherized access.
+    - on modern TLS standards and proper certificate managament to prevent data theft and anauthorized access.
     - [1] there are no fixes or patches that can adequately repair SSL, therefore it is critically important that organization upgrade to secure alternative which is TLS 1.2 protocol.
     - [2] manadated that all processing and third party entities- including Acquirers, Processors, Gateway, and Service Providers must provide TLS1.1 or greater service offering. 
     - [2] also required that all entities  must cutover to use  ONLY a secure version of TLS (as defined by NIST).
