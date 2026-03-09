@@ -6,8 +6,8 @@
     - This project entails the process of upgrading from Secure Socet Layer (SSL) to Transport Layer Security (TLS). Both are cryptograhic protocols designed to provide secure commnucation over a computer network.
     - Secure Socet Layer has been one of the most widely-used encryption protocols. It remains use today despiste the existence of a number of known security vulnerabilities and despite being deprecated by NIST in 2014
     - According to NIST, there are no fixes or patches that can adequately repair SSL, therefore it is critically important that organization upgrade to secure alternative which is TLS 1.2 protocol.
-    - Payment Card Industry (PCI) manadated that all processing and third party entities- including Acquirers, Processors, Gateway and Service Providers must provide TLS1.1 or greater service offering 
-    - PCI also required that all entities  must cover to use  ONLY a secure version of TLS (as defined by NIST)
+    - Payment Card Industry (PCI) manadated that all processing and third party entities- including Acquirers, Processors, Gateway, and Service Providers must provide TLS1.1 or greater service offering. 
+    - PCI also required that all entities  must cutover to use  ONLY a secure version of TLS (as defined by NIST).
     
         
          
