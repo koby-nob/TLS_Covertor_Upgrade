@@ -23,7 +23,7 @@
 
 <img width="698" height="825" alt="Screenshot_3_Firewall_Requirement" src="https://github.com/user-attachments/assets/c6665b6a-ceec-46c3-9c6a-6e7d650e847b" />
 
-    - Firewall Configureation for Transaction Linke > V2.15.TL4
+    - Firewall Configuration for Transaction Link > V2.15.TL4
 
 
  - Screenshot 2- TLS Convertor Diagram
