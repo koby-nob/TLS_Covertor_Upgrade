@@ -73,5 +73,5 @@
 
 <img width="535" height="616" alt="Screenshot_4_PMS" src="https://github.com/user-attachments/assets/3827ac13-b003-4fa5-8e22-472464d6f117" />
 
- - Listed: Oracle Hospilitatlity  Opera Enterprise Scale Property Managment System
+     - Listed: Oracle Hospilitatlity  Opera Enterprise Scale Property Managment System
 
