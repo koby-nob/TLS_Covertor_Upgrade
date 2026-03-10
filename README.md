@@ -22,7 +22,9 @@
  - [3] Screenshot 1- Firewall Requirements (Global Port Requirments & Pinpad Support)
  - Transaction Link Production - Application Programming Interface (API)
 
-<img width="698" height="825" alt="Screenshot_3_Firewall_Requirement" src="https://github.com/user-attachments/assets/c6665b6a-ceec-46c3-9c6a-6e7d650e847b" />
+![Screenshot_2_Firewall Requirement](https://github.com/user-attachments/assets/097c42d2-74b3-43f5-b960-bf46010b5833)
+
+
 
     - Firewall Configuration for Transaction Link > V2.15.TL4
 
